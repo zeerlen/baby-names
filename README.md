@@ -3,4 +3,4 @@
 ### Informações de requisitos do teste disponivel em `datasets`
 ### Candidato: Alen I C Silva
 ### Ferramentas usadas: Jupyter Notebook (IDE) e Python
-### Observação: Gráficos disponível em `images`
+### Observação: Gráficos disponível em [images](./images)
